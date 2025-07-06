@@ -1,8 +1,8 @@
 console.log('hello');
 console.log("this is my testing file i hope its working just fine");
 
-console.log("now waiting for 5 minutes to see if it works")
-
+console.log("forgot to link my git to my github thats why was getting errors when using ppushy")
+console.log("now i have solved that problem lets see if this works now")
 
 
 
